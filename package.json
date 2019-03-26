@@ -1,0 +1,30 @@
+{
+  "name": "sudoku.js",
+  "version": "0.1.0",
+  "description": "A Sudoku puzzle generator and solver JavaScript library.",
+  "main": "sudoku.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "test/index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/robatron/sudoku.js.git"
+  },
+  "keywords": [
+    "sudoku",
+    "puzzle",
+    "generator",
+    "solver",
+    "javascript",
+    "library"
+  ],
+  "author": "Rob McGuire-Dale <rob.mcguiredale@gmail.com>",
+  "license": "SEE LICENSE IN LICENSE",
+  "bugs": {
+    "url": "https://github.com/robatron/sudoku.js/issues"
+  },
+  "homepage": "https://github.com/robatron/sudoku.js#readme"
+}
